@@ -8,4 +8,4 @@ plugins:
 markdown: kramdown
 timezone: America/Chicago
 # Optional: set a baseurl only if you're NOT using a user site (leave blank for yourusername.github.io)
-baseurl: ""
+
