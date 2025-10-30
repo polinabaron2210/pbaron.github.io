@@ -1,3 +1,11 @@
 title: "Polina Baron"
-description: "Math PhD — Teichmüller dynamics, translation surfaces"
-theme: jekyll-theme-minimal
+description: "Math PhD — Teichmüller dynamics, translation surfaces, ergodic theory"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-seo-tag
+markdown: kramdown
+timezone: America/Chicago
+# Optional: set a baseurl only if you're NOT using a user site (leave blank for yourusername.github.io)
+baseurl: ""
